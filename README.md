@@ -1,4 +1,9 @@
+<div align="center">
+
 # 🎨 Pixel Year: Your Life, Color by Color
+### *Visualize Your Soul, One Pixel at a Time*
+
+</div>
 
 <p align="center">
   <img src="pixel_year1.jpeg" alt="Pixel Year Banner" width="100%">
