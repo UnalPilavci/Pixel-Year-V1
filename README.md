@@ -54,7 +54,7 @@ The application has been developed using professional mobile software standards 
 
 To test the project in your own environment:
 
-1. Clone this repository: `git clone https://github.com/UnalPilavci/Pixel-Year.git`
+1. Clone this repository: `git clone https://github.com/UnalPilavci/Pixel-Year-V1.git`
 2. Install dependencies: `flutter pub get`
 3. **Important:** Create your Firebase project and update the relevant fields (YOUR-API-KEY-HERE) in the `lib/firebase_options.dart` file with your own keys.
 4. Run the application: `flutter run`
