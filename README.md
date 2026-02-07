@@ -1,7 +1,7 @@
 # 🎨 Pixel Year: Your Life, Color by Color
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UnalPilavci/Pixel-Year/main/assets/readme_header.png" alt="Pixel Year Banner" width="100%">
+  <img src="pixel_year1.jpeg" alt="Pixel Year Banner" width="100%">
 </p>
 
 <p align="center">
