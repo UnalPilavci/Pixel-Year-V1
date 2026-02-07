@@ -1,0 +1,59 @@
+# ----------------------------------------------------------------------------
+# Pixel Year - Profesyonel Flutter & Firebase .gitignore
+# ----------------------------------------------------------------------------
+
+# Misc
+*.log
+*.pyc
+*.swp
+.DS_Store
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+pubspec.lock
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/*.keystore
+android/app/*.jks
+*.keystore
+*.jks
+.cxx/
+captures/
+gradlew
+gradlew.bat
+
+# Firebase (Gizli Dosyalar)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+.env
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+*.xcworkspace
+*.xcuserstate
+xcuserdata/
+lib/firebase_options.dart
+# Web
+web/.dart_tool/
+
+# Node
+node_modules/
+
+# Coverage
+coverage/

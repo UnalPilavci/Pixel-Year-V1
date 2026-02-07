@@ -1,0 +1,72 @@
+# Misc
+*.log
+*.lock
+*.pyc
+*.swp
+.DS_Store
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+
+# Android
+android/.gradle/
+android/app/*.keystore
+android/key.properties
+android/local.properties
+android/app/google-services.json
+.android/
+.cxx/
+captures/
+gradlew
+gradlew.bat
+GeneratedPluginRegistrant.java
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/.symlinks/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata/
+
+# Web
+web/.dart_tool/
+
+# Linux / MacOS / Windows
+linux/flutter/
+macos/Flutter/
+windows/flutter/
+
+# VSCode
+.vscode/
+
+# Keystore / Secrets
+**/*.jks
+**/*.keystore
+**/key.properties
+**/*.pem
+**/*.p12
+**/*.p8
+
+# Firebase exceptions
+ios/GoogleService-Info.plist
+macos/GoogleService-Info.plist
+
+# Node
+node_modules/
+
+# Coverage
+coverage/
