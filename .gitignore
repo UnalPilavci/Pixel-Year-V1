@@ -34,7 +34,7 @@ captures/
 gradlew
 gradlew.bat
 
-# Firebase (Gizli Dosyalar)
+
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
 .env
